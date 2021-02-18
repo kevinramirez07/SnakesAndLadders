@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="6D47601E-70AF-7D85-B27D-7A634C35D1C0" name="CIM10_DIAGNOSTICS_CATEGORIES">
+<createdBy>kevinramirezmarinos</createdBy>
+<createdTime>2021-02-18 13:12:30 UTC</createdTime>
+<ownerDesignName>tfg_database</ownerDesignName>
+<engineerTo>
+<item key="D12548AF-7EE8-7BAF-74A2-87504B66F831" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+</Entity>

@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<LogicalDesign class="oracle.dbtools.crest.model.design.logical.LogicalDesign" name="Logical" id="E797E7A9-549F-1FAC-C6E3-60A83D043B43" mainViewID="50EF45B0-4350-E9B7-40F6-1F57BE4E7BA1">
+<createdBy>kevinramirezmarinos</createdBy>
+<createdTime>2021-02-18 13:02:25 UTC</createdTime>
+<ownerDesignName>tfg_database</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</LogicalDesign>

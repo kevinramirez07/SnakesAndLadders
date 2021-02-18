@@ -1,0 +1,45 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="542405CF-67D5-D454-E14D-E6A47C8B503A" name="CIM10_DIAGNOSTICS_CHAPTERS">
+<createdBy>kevinramirezmarinos</createdBy>
+<createdTime>2021-02-18 13:02:59 UTC</createdTime>
+<ownerDesignName>tfg_database</ownerDesignName>
+<engineerTo>
+<item key="D12548AF-7EE8-7BAF-74A2-87504B66F831" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="ID" id="925047CF-C1EE-C109-06FE-2027EC068BA4">
+<createdBy>kevinramirezmarinos</createdBy>
+<createdTime>2021-02-18 13:05:28 UTC</createdTime>
+<ownerDesignName>tfg_database</ownerDesignName>
+<engineerTo>
+<item key="D12548AF-7EE8-7BAF-74A2-87504B66F831" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT027</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="8C0EC8FE-6B6A-6D8A-76EE-B5E035B56C57" name="CIM10_DIAGNOSTICS_CHAPTERS PK">
+<createdBy>kevinramirezmarinos</createdBy>
+<createdTime>2021-02-18 13:10:39 UTC</createdTime>
+<ownerDesignName>tfg_database</ownerDesignName>
+<engineerTo>
+<item key="D12548AF-7EE8-7BAF-74A2-87504B66F831" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>925047CF-C1EE-C109-06FE-2027EC068BA4</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

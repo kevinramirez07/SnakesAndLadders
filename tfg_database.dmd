@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="tfg_database" id="7ED399C5-F954-03B2-B3DC-70F8422B9111" version="3.5">
+<createdBy>kevinramirezmarinos</createdBy>
+<createdTime>2021-02-18 13:02:25 UTC</createdTime>
+<ownerDesignName>tfg_database</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>7ED399C5-F954-03B2-B3DC-70F8422B9111</designId>
+</OSDM_Design>

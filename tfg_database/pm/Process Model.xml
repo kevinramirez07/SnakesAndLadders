@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<ProcessModel class="oracle.dbtools.crest.model.design.process.ProcessModel" name="Process Model" id="C6D329FF-2389-34C7-B819-66F2712E7E62">
+<createdBy>kevinramirezmarinos</createdBy>
+<createdTime>2021-02-18 13:02:25 UTC</createdTime>
+<ownerDesignName>tfg_database</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</ProcessModel>
